@@ -4,7 +4,7 @@
   files:
   - av_domains.lst
   last_updated: '2020-10-13'
-  name: DNS Cache Snooper
+  name: DNS Cache Snooper 1
   path: discovery/info_disclosure/cache_snoop
   required_keys: []
   version: '1.1'
