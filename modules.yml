@@ -489,11 +489,11 @@
   description: Uses the BinaryEdge API to discover subdomains (Expertware).
   files: []
   last_updated: '2024-10-17'
-  name: BinaryEdge.io DNS lookup
+  name: BinaryEdge.io DNS lookup Expertware
   path: recon/domains-hosts/binaryedge_expert
   required_keys:
   - binaryedge_api
-  version: '1.2'
+  version: '1.0'
 - author: Marcus Watson (@BranMacMuffin)
   dependencies: []
   description: Leverages the Bing API and "domain:" advanced search operator to harvest
