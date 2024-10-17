@@ -550,6 +550,16 @@
   path: recon/domains-hosts/certificate_transparency
   required_keys: []
   version: '1.3'
+- author: Rich Warren (richard.warren@nccgroup.trust)
+  dependencies: []
+  description: Searches certificate transparency data from crt.sh, adding newly identified
+    hosts to the hosts table.
+  files: []
+  last_updated: '2019-09-16'
+  name: Certificate Transparency Search Expertware
+  path: recon/domains-hosts/certificate_transparency_expert
+  required_keys: []
+  version: '1.3'
 - author: Tim Tomes (@lanmaster53)
   dependencies: []
   description: Harvests hosts from Google.com by using the 'site' search operator.
