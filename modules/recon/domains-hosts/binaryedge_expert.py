@@ -39,7 +39,7 @@ class Module(BaseModule):
                             response.append(
                                 {
                                     'host':subdomain['domain']
-                                }
+                                })
                     page_num += 1
                 elif resp.json().get('status') == 400:
                     break
